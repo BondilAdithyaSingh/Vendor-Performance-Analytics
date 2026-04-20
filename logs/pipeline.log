@@ -1,0 +1,16 @@
+2026-03-31 18:48:38,720 - INFO - Processing file: begin_inventory.csv
+2026-03-31 18:48:51,875 - INFO - Processing file: end_inventory.csv
+2026-03-31 18:49:06,210 - INFO - Processing file: purchases.csv
+2026-03-31 18:52:56,755 - INFO - Processing file: purchase_prices.csv
+2026-03-31 18:52:57,643 - INFO - Processing file: sales.csv
+2026-03-31 19:22:18,186 - INFO - Processing file: vendor_invoice.csv
+2026-03-31 19:22:22,817 - ERROR - No such comm target registered: jupyter.widget.control
+2026-03-31 19:22:22,828 - WARNING - No such comm: a5d50acd-1445-401b-9c6a-41369db32a68
+2026-04-01 11:50:36,067 - ERROR - No such comm target registered: jupyter.widget.control
+2026-04-01 11:50:36,073 - WARNING - No such comm: 6cfc2751-82f0-4b40-88a0-e1a5c270b687
+2026-04-01 13:28:54,378 - ERROR - No such comm target registered: jupyter.widget.control
+2026-04-01 13:28:54,383 - WARNING - No such comm: 1781bceb-6df2-4e24-9a31-25551bd95ea8
+2026-04-01 22:06:51,684 - ERROR - No such comm target registered: jupyter.widget.control
+2026-04-01 22:06:51,691 - WARNING - No such comm: 4f21c204-8141-4903-bd42-e142ff2de989
+2026-04-02 10:33:04,161 - ERROR - No such comm target registered: jupyter.widget.control
+2026-04-02 10:33:04,163 - WARNING - No such comm: 9f2364e0-a358-4357-8768-77242bcca16d
