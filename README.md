@@ -155,16 +155,10 @@ pip install pandas matplotlib seaborn sqlalchemy pymysql jupyter
 
 ---
 
-## 🔗 References
-
-- Project inspired by: [Vendor Performance Data Analytics End-To-End Project](https://youtu.be/nmCfNHjfgEY)
-
----
 
 ## 📬 Connect
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile) or check out my other projects on [GitHub](https://github.com/your-username).
+Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/adithya-singh-b9697a335/]) or check out my other projects on [GitHub](https://github.com/BondilAdithyaSingh).
 
 ---
 
-⭐ If you found this project helpful, give it a star!
